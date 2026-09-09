@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="The Tintmaster monogram">
+  <rect width="64" height="64" fill="#090b0d"/>
+  <path d="M10 10h44v44H10z" fill="none" stroke="#f3a33a" stroke-width="2"/>
+  <path d="M16 20h32M32 20v26M20 46V29l12 17 12-17v17" fill="none" stroke="#f4f0e7" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>
