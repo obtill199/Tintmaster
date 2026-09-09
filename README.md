@@ -1,6 +1,6 @@
 # The Tintmaster website demo
 
-An original, mobile-first two-page website concept for The Tintmaster in Wichita, Kansas. It includes a complete homepage and automotive tint page, structured business data, a sitemap, crawl rules, accessible navigation, and direct call/text conversion paths.
+An original, mobile-first static website concept for The Tintmaster in Wichita, Kansas. It contains five search-focused pages, structured business data, a sitemap, crawl rules, accessible navigation, and a no-backend quote flow that opens a pre-filled text to the business.
 
 ## Open the demo
 
@@ -10,15 +10,16 @@ Open `index.html` in a browser. For the most reliable preview, serve this folder
 
 - `index.html` — primary target: “window tinting Wichita KS”
 - `auto-window-tinting.html` — “car window tinting Wichita KS”
-
-The homepage names the shop's residential, commercial and specialty work, but those services intentionally open a direct text conversation. Their full service pages are reserved for the complete website.
+- `residential-window-tinting.html` — “residential window tinting Wichita”
+- `commercial-window-tinting.html` — “commercial window tinting Wichita”
+- `contact.html` — call/text conversion page
 
 ## Important demo notes
 
 - `tintmasterwichita.com` is a proposed canonical domain used for the demo. Confirm that it is available or replace every occurrence before launch.
 - The amber demo ribbon intentionally identifies the site as a concept. Remove it only after the business approves all content.
 - The current business phone, address and listed hours came from current public listing evidence. Confirm them directly before publishing.
-- Calls and text links go directly to `316-272-5521`.
+- The quote form does not store information. It builds a text message to `316-272-5521` on the visitor’s device.
 - The revised demo intentionally uses no generated or stock photography. Its shade board and installation details are built from typography and layout. Add only real shop and project photography approved by the business.
 - No aggregate-rating schema was added. The visible review summary should be refreshed at launch, and any quoted review should be used only with appropriate permission/platform compliance.
 
